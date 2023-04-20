@@ -10,9 +10,9 @@
     "name": "Love & Tolerance (No Crosshair)",
     "uuid": "00341c85-d0ea-4298-bab7-bdadc986f580",
     "version": [
+      1,
       0,
-      0,
-      1
+      0
     ]
   },
   "modules": [
@@ -21,9 +21,9 @@
       "type": "resources",
       "uuid": "ef13c304-984f-4c06-b162-e82a60585640",
       "version": [
+        1,
         0,
-        0,
-        1
+        0
       ]
     }
   ]
